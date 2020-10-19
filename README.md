@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chinamaster
+=======
+master.
+>>>>>>> master
